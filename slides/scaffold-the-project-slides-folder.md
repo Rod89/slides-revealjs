@@ -18,7 +18,10 @@ Example **list.json**:
     ],
     [
         "scaffold-the-project.md",
-        "scaffold-the-project-slides-folder.md"
-    ]
+        "scaffold-the-project-slides-folder.md",
+        "scaffold-the-project-production.md"
+    ],
+    "publish.md",
+    "more.md"
 ]
 ```
