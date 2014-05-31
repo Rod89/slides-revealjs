@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Slides with Reveal.js",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "RiaanBurger",
+    "githubRepository": "slides-revealjs"
+  }
+}
