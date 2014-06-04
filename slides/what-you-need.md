@@ -1,6 +1,6 @@
 ##  What You Need
 
-* GitHub Pages Repo
+* GitHub Repo
 * Node.js
 * Yeoman
 * Reveal.js Generator

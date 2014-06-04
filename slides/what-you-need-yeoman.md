@@ -1,4 +1,4 @@
-###  What You Need: 
+###  What You Need:
 ## Yeoman
 
 Install Yeoman in the global user space:
@@ -7,7 +7,7 @@ Install Yeoman in the global user space:
 npm install -g yo
 ```
 
-## Yeoman
+## Reveal.js Generator
 
 Install the Reveal.js Generator in the global user space:
 
