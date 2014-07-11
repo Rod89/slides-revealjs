@@ -12,5 +12,5 @@ npm install -g yo
 Install the Reveal.js Generator in the global user space:
 
 ```
-install -g generator-reveal
+npm install -g generator-reveal
 ```
