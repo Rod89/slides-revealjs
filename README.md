@@ -13,3 +13,7 @@ Series:
 - Slides with Reveal.js - ForkIt
   - Repo: https://github.com/RiaanBurger/slides-revealjs-forkit
   - Slides https://riaanburger.github.io/slides-revealjs-forkit
+
+- Slides with Reveal.js - DASA Custom Theme
+  - Repo: https://github.com/RiaanBurger/slides-revealjs-dasa
+  - Slides https://riaanburger.github.io/slides-revealjs-dasa
